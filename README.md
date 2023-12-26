@@ -15,7 +15,7 @@
 
 ## Tech Stacks
 
-<p>
+<p align>
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white"> 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
@@ -32,7 +32,7 @@
 </p>
 
 ## Profiles
-<p>
+<p align>
 <a href="https://www.codechef.com/users/hastlavista" target="_blank"><img src="https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=for-the-badge&logo=CodeChef&logoColor=white" alt="CodeChef Badge"></a>
 <a href="https://codeforces.com/profile/amitkumar2003.edu" target="_blank"><img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" alt="Codeforces Badge"</a>
 <a href="https://leetcode.com/amitkumar2003/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode Badge"></a>
@@ -42,7 +42,7 @@
   
 ## Connect with me
 
-<p>
+<p align>
 <a href="mailto:amit.edu@outlook.com"><img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Outlook Badge"></a>
 <a href="mailto:amitkumar2003.edu@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"</a>
 <a href="https://www.linkedin.com/in/amitkumar-srivastav-a448571b8/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
@@ -50,9 +50,14 @@
 <a href="https://www.instagram.com/ak_srivastav_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
 </p>
 
+  
+## Github Stats
 
-[![Amit's GitHub stats](https://github-readme-stats.vercel.app/api?username=AkSrivastav&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)     
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=AkSrivastav&show_icons=true&hide_border=true&theme=jolly" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=AkSrivastav&hide_border=true&theme=jolly" />
+</p>
+<p align="center">
+	<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkSrivastav&layout=compact&theme=jolly&hide=jupyter%20notebook" />
+</p>
 
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AkSrivastav&layout=compact&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)  
