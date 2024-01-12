@@ -36,6 +36,7 @@
 <a href="https://www.codechef.com/users/hastlavista" target="_blank"><img src="https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=for-the-badge&logo=CodeChef&logoColor=white" alt="CodeChef Badge"></a>
 <a href="https://codeforces.com/profile/amitkumar2003.edu" target="_blank"><img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" alt="Codeforces Badge"</a>
 <a href="https://leetcode.com/amitkumar2003/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode Badge"></a>
+<a href="https://www.hackerrank.com/amitkumar2003_e1" target="_blank"><img src="https://img.shields.io/badge/-HackerRank-brightgreen?style=for-the-badge&logo=HackerRank&logoColor=black" alt="Hackerrank Badge"></a>
 </p>
 
 
